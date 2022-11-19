@@ -1,9 +1,9 @@
-### Welcome to my GitHub profile 👋
-💪  My name is Ayxan and I am self taught web/full-stack developer
+### Welcome to my profile 👋
+💪  My name is Ayxan and I am energetic self taught web/full-stack developer
 
 🎓  Skills, Front-End 💻:
 - HTML5 🌍,
-- CSS3 🍰,
+- CSS3 🍰 & CSS Frameworks, Libraries,
 - JavaScript ES5+,
 - jQuery,
 - React & State Management ⚛,
@@ -15,6 +15,4 @@
 - PostqreSQL 💽,
 - MongoDB 💽
 
-🔥  I am very motivated to get more experience
-
-💡  New ideas everyday
+🔥  I am getting more experience everyday
