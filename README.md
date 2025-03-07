@@ -15,4 +15,4 @@
 - PostqreSQL 💽,
 - MongoDB 💽
 
-🔥  I am getting more experience everyday
+🔥  I am getting better everyday.
